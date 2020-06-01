@@ -6,4 +6,4 @@
 
  3. Set the rule of Pheromone stayed
 
- 4. Keep itering and find the better solutions
+ 4. Keep itering and print the better solutions
